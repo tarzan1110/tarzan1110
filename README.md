@@ -7,7 +7,7 @@ I specialize in scaling web and mobile applications that make a lasting impact.
 ## 🌐 What I'm All About  
 
 - **Full-Stack Development:**  
-  Expertise in JavaScript, TypeScript, Node.js, Solidity, React, React Native, GraphQL, and Web3.  
+  Expertise in JavaScript, TypeScript, Node.js, Golang, Solidity, React, React Native, GraphQL, and Web3.  
 
 - **Blockchain & AI Innovation:**  
   Leveraging cutting-edge technologies to drive transformation in digital identity management and beyond.  
